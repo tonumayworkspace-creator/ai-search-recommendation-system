@@ -1,0 +1,11 @@
+id,title,content,category
+1,Machine Learning Basics,Introduction to machine learning concepts and algorithms,AI
+2,Deep Learning Guide,Understanding neural networks and deep learning,AI
+3,NLP Fundamentals,Learn about natural language processing and text analysis,NLP
+4,Search Systems,How search engines and information retrieval systems work,Search
+5,Recommendation Systems,Overview of recommendation engines and personalization,AI
+6,Vector Databases,Using FAISS and embeddings for similarity search,Search
+7,Python for Data Science,Using Python libraries like pandas and numpy,Programming
+8,SQL for Analytics,Learn SQL queries for data analysis,Data
+9,Generative AI,Introduction to LLMs and generative models,AI
+10,RAG Systems,How retrieval augmented generation improves LLMs,NLP
